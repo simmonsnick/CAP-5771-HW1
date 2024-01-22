@@ -1,4 +1,5 @@
 
+
 def question3_1():
     #Julian Date, which is the number of days elapsed since 12 noon Green-wich Mean Time of January 1, 4713 BC.
     answer = ['Continuous', 'Quantitative', 'Interval']
