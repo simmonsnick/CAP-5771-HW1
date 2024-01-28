@@ -12,10 +12,10 @@ def question8_2():
 
 def question8_3():
 # In Simple Euclidean distance both vectors are similar
-    answer == 'equally'
+    answer = 'equally'
     return answer 
 
 def question8_4():
 # In Simple Euclidean both vectors are similar
-    answer == 'equally'
+    answer = 'equally'
     return answer
