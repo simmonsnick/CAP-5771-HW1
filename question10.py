@@ -1,5 +1,9 @@
 
 
+def question10_1():
+# Noise can lead to problems with inaccurate or misleading results in a dataset.
+    return False
+
 def question10_2():
 # Correlation coefficient would be the best approach with the linear relationship between two sets of real values and ranges -1 to 1.
     return True
