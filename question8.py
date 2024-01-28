@@ -17,5 +17,5 @@ def question8_3():
 
 def question8_4():
 # In Simple Euclidean both vectors are similar
-    answer == 'equally'
+    answer ='equally'
     return answer
