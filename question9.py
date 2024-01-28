@@ -1,21 +1,21 @@
 
 
 def question9_1():
-    answer = 'SMC'
+    answer = 'smc'
     return answer
 
 def question9_2():
-    answer = 'Jaccard'
+    answer = 'jaccard'
     return answer
 
 def question9_3():
-    answer = 'Correlation coecient'
+    answer = 'correlation coecient'
     return answer 
 
 def question9_4():
-    answer = 'Euclidean'
+    answer = 'euclidean'
     return answer 
 
 def question9_5():
-    answer = 'Cosine Similarity'
+    answer = 'cosine similarity'
     return answer 
