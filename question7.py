@@ -5,7 +5,7 @@ def question7_1():
 # instead of 21 ≤ Age < 45, will the confidence of the rule 
 # non-increasing, non-decreasing, stays the same, or could go either way
 
-    answer = 'Could go either way increase/decrease'
+    answer = 'increase/decrease'
     return answer
 
 def question7_2():
@@ -13,10 +13,10 @@ def question7_2():
 # right-hand side of the rule becomes $500 < AmountSpent < $1000, 
 # confidence of the rule be non-increasing, non-decreasing, stays the same, or could go either way
 
-    answer = 'Could go either way increase/decrease'
+    answer = 'increase/decrease'
     return answer
 
 def question7_3():
-#  Poisson distribution with a mean of 4 into 4 equal frequency bins
-    answer = [('-∞', 2.0)(2.0, 4.0), (4.0, 5.0), (5.0, '∞+' )]
-    return answer 
+    # Poisson distribution with a mean of 4 into 4 equal frequency bins
+    answer = [('-∞', 2.0), (2.0, 4.0), (4.0, 5.0), (5.0, float('inf'))]
+    return answer
