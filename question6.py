@@ -19,7 +19,7 @@ def question6_2():
 def question6_3():
 # Inversion of the original order of values means means the values in dataset is reversed
     answer = {
-    'equal_width': [' No Change', 5],
+    'equal_width': ['No Change', 5],
     'equal_frequency': ['Change', 6],   
     }
     return answer
