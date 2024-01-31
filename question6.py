@@ -4,7 +4,7 @@ def question6_1():
 # The bins will be affected and values may not be the same bins as before.
    answer = {
     'equal_width': ['No change', 6],
-    'equal_frequency': ['Change', 6']
+    'equal_frequency': ['Change', 6]
    }
    return answer
 
